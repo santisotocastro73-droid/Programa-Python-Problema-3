@@ -1,3 +1,6 @@
+# soy santiago soto estudiate de ingenieria en sistemas del CEAD valledupar de la unad y este es el problema # 3
+#Grupo: 213022A_2201
+#codigo: Autoria Propia
 print("Mi nombre es Santiago Soto y este es el problema # 3")
 inventario=[["A001","Arroz", 10, 20],
             ["A002","Frijoles",5,10],
